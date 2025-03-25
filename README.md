@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-陶瓷陶瓷陶瓷
-=======
+
 # PotteryGame
 A LeapMotion-based  Pottery Making Game
->>>>>>> 617ed184b7923368b4793f1d01e8e806fceae974
+<img width="409" alt="image" src="https://github.com/user-attachments/assets/beec775f-4fd4-4270-8390-cba28bf35be0" />
+<img width="410" alt="image" src="https://github.com/user-attachments/assets/b34911cb-8b56-4734-9ccc-d0f0dd9e16fc" />
